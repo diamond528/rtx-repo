@@ -1,1 +1,9 @@
-[]
+{
+  "hello": {
+    "version": "1.0.0",
+    "description": "A hello world test package",
+    "deps": [],
+    "dep_urls": {},
+    "url": "file:///home/diamond/rtx-repo/packages/hello-1.0.0.rtx"
+  }
+}
