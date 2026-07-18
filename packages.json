@@ -1,1 +1,9 @@
-{}
+{
+  "hello": {
+    "version": "1.0.0",
+    "description": "A hello world test package",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/hello-1.0.0.rtx"
+  }
+}
