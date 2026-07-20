@@ -5,5 +5,96 @@
     "deps": [],
     "dep_urls": {},
     "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/hello-1.0.0.rtx"
+  },
+  "i3": {
+    "version": "4.23",
+    "description": "i3 tiling window manager",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/i3-4.23.rtx"
+  },
+  "kitty": {
+    "version": "0.40.0",
+    "description": "Kitty terminal emulator",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/kitty-0.40.0.rtx"
+  },
+  "rofi": {
+    "version": "1.7.8",
+    "description": "Rofi app launcher",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/rofi-1.7.8.rtx"
+  },
+  "xorg-server": {
+    "version": "21.1.16",
+    "description": "X.Org X server",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/xorg-server-21.1.16.rtx"
+  },
+  "dbus": {
+    "version": "1.16.0",
+    "description": "D-Bus message bus",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/dbus-1.16.0.rtx"
+  },
+  "mousepad": {
+    "version": "0.6.3",
+    "description": "Mousepad text editor",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/mousepad-0.6.3.rtx"
+  },
+  "networkmanager": {
+    "version": "1.52.0",
+    "description": "NetworkManager",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/networkmanager-1.52.0.rtx"
+  },
+  "pavucontrol": {
+    "version": "6.1",
+    "description": "Volume control",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/pavucontrol-6.1.rtx"
+  },
+  "pipewire": {
+    "version": "1.4.0",
+    "description": "PipeWire multimedia",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/pipewire-1.4.0.rtx"
+  },
+  "thunar": {
+    "version": "4.20.0",
+    "description": "Thunar file manager",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/thunar-4.20.0.rtx"
+  },
+  "xfce4-terminal": {
+    "version": "1.1.3",
+    "description": "XFCE terminal",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/xfce4-terminal-1.1.3.rtx"
+  },
+  "file-roller": {
+    "version": "43.0",
+    "description": "Archive manager",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/file-roller-43.0.rtx"
+  },
+  "sddm": {
+    "version": "0.21.0",
+    "description": "Display manager",
+    "deps": [],
+    "dep_urls": {},
+    "url": "https://raw.githubusercontent.com/diamond528/rtx-repo/master/packages/sddm-0.21.0.rtx"
   }
 }
